@@ -1,3 +1,3 @@
 ﻿# hacker-dna-writeups
 ----------------
-With solution steps and screenshots; no direct flag strings mentioned.
+A collection of cybersecurity lab writeups documenting recon, exploitation paths, privilege escalation, and lessons learned.
