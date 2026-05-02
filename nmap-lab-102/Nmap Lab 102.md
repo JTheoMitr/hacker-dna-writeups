@@ -67,7 +67,7 @@ Located and retrieved the user flag:
 
 **cat flag-user.txt**
 
-*(Flag omitted intentionally for integrity of the challenge*![][image3]
+*(Flag omitted intentionally for integrity of the challenge)*![][image3]
 
 ---
 
